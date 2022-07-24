@@ -16,7 +16,7 @@ The meat is in solving problems and once you get a hang of it, it's a breeze all
 Glad to see you here!
 
 ### 📍 __Project Highlights__
-1. [CLI practice](https://github.com/EliudArudo/CLI-Practice): 2 games consolidated in 1 console app, written in 8 languages. 
+1. [CLI practice](https://github.com/EliudArudo/CLI-Practice): 2 [games](https://language-practice.netlify.app) consolidated in 1 console app, written in 8 languages. 
 2. Cooler pad fan control Ubuntu [extension](https://github.com/EliudArudo/fancontrol-coolerpad).
 3. Event based miroservice architecture in [Node.js](https://github.com/EliudArudo/Container-Events-Communication-NodeJS), [Java](https://github.com/EliudArudo/Container-Events-Communication-Java) and [Go](https://github.com/EliudArudo/Container-Events-Communication-Go). 
 4. 3 interface [Voting system](https://github.com/EliudArudo/Dockersed-Complex-Voting-App).
