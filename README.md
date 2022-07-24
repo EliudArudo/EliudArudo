@@ -23,7 +23,7 @@ Glad to see you here!
 
 ### ℹ️ __Info__
 * Reach me through my [email](eliud.arudo@gmail.com).
-* You can also find my updated resume [here](https://docs.google.com/document/d/.1XaTggzvvjBRh1IoMBfWWVcUMEpFYY2aIg22ekeb7nbM/edit?usp=sharing).
+* You can also find my updated resume [here](https://docs.google.com/document/d/1XaTggzvvjBRh1IoMBfWWVcUMEpFYY2aIg22ekeb7nbM/edit?usp=sharing).
 
 ### 📈 __GitHub Stats:__
 <p>
